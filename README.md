@@ -1,8 +1,6 @@
 <h1 align="center">Hello! My name is Aditya, but you can call me Adi ✌</h1>
 <h3 align="center">A Coding Enthusiast ⌨</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a" alt="a" /></a> </p>
-
 - 🔭 I’m currently working on **DSA**
 
 - 🌱 I’m currently learning **Flutter, Machine Learning**
