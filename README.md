@@ -7,4 +7,4 @@
 - 📫 How to reach me: https://www.linkedin.com/in/aditya-verma-19221b202/
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ROOT is located at the top of TREE
-<img src="https://github-readme-stats.vercel.app/api?username=adityaverma32&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=adityaverma32&&show_icons=true&title_color=A7A7A7&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
