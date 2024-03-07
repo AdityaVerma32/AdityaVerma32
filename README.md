@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **DSA**
 
-- 🌱 I’m currently learning **Flutter, Machine Learning**
+- 🌱 I’m currently learning **ReactJS**
 
-- 🤝 I’m looking for help with **Flutter**
+- 🤝 I’m looking for help with **NodeJS**
 
 - 💬 Ask me about **DSA**
 
